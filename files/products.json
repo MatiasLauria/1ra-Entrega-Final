@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2,
+    "title": "Durazno",
+    "description": "Durazno congelado x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "frutas congeladas",
+    "status": true,
+    "code": "f02",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Frutilla",
+    "description": "Frutilla congeladas x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "frutas congeladas",
+    "status": true,
+    "code": "f03",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "Frambuesa",
+    "description": "Frambuesas congeladas x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "frutas congeladas",
+    "status": true,
+    "code": "f04",
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "title": "Mix frutos Rojos",
+    "description": "Mix frutos rojos x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "frutas congeladas",
+    "status": true,
+    "code": "f05",
+    "stock": 100
+  },
+  {
+    "id": 6,
+    "title": "Arvejas",
+    "description": "arvejas congeladas x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "Verduras congeladas",
+    "status": true,
+    "code": "V01",
+    "stock": 100
+  },
+  {
+    "id": 7,
+    "title": "Cebolla",
+    "description": "Cebolla congeladas x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "Verduras congeladas",
+    "status": true,
+    "code": "V02",
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "title": "Morron",
+    "description": "Morron congelado x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "Verduras congeladas",
+    "status": true,
+    "code": "V03",
+    "stock": 100
+  },
+  {
+    "id": 9,
+    "title": "Papa",
+    "description": "Papas congeladas x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "Verduras congeladas",
+    "status": true,
+    "code": "V04",
+    "stock": 100
+  },
+  {
+    "id": 10,
+    "title": "Mix Sopa",
+    "description": "Mix sopa x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "Verduras congeladas",
+    "status": true,
+    "code": "V05",
+    "stock": 100
+  },
+  {
+    "id": 11,
+    "title": "Arandano",
+    "description": "Arandano congelado x 1kg",
+    "price": 1500,
+    "thumbnail": "url",
+    "category": "frutas congeladas",
+    "status": true,
+    "code": "f01",
+    "stock": 100
+  }
+]
